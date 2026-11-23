@@ -34,3 +34,8 @@ else:
     print("Invalid choice")
 
 print("See you!")
+
+
+a = [1,2,3]
+for i in a:
+    print(a)
